@@ -1,11 +1,11 @@
-# material-ui-chip-input
+# material-ui-chips-input
 
 ## This is a fork with urgent update on peer dependency of material UI core (to ^4.9.2) & React (to ^16.13.1)
 
-#### by [sheghzo](https://github.com/sheghzo/material-ui-chip-input)
+#### by [sheghzo](https://github.com/sheghzo/material-ui-chips-input)
 
-[![Build Status](https://travis-ci.org/TeamWertarbyte/material-ui-chip-input.svg?branch=next)](https://travis-ci.org/TeamWertarbyte/material-ui-chip-input)
-[![Coverage Status](https://coveralls.io/repos/github/TeamWertarbyte/material-ui-chip-input/badge.svg?branch=next)](https://coveralls.io/github/TeamWertarbyte/material-ui-chip-input?branch=next)
+[![Build Status](https://travis-ci.org/TeamWertarbyte/material-ui-chips-input.svg?branch=next)](https://travis-ci.org/TeamWertarbyte/material-ui-chips-input)
+[![Coverage Status](https://coveralls.io/repos/github/TeamWertarbyte/material-ui-chips-input/badge.svg?branch=next)](https://coveralls.io/github/TeamWertarbyte/material-ui-chips-input?branch=next)
 
 This project provides a [chip input field][chipspec] for [Material-UI][mui]. It is inspired by [Angular Material's chip input][angular-chips].
 
@@ -15,7 +15,7 @@ If you want to try the component yourself instead of watching a gif, head over t
 
 ## Installation
 ```shell
-npm i --save material-ui-chip-input@next
+npm i --save material-ui-chips-input@next
 ```
 **Note:** This is the version for Material-UI 1.0.0 or later. If you are still using Material-UI 0.x, you can use our [legacy version][legacy].
 
@@ -23,7 +23,7 @@ npm i --save material-ui-chip-input@next
 The component supports either controlled or uncontrolled input mode. If you use the controlled mode (by setting the `value` attribute), the `onChange` callback won't be called.
 
 ```jsx
-import ChipInput from 'material-ui-chip-input'
+import ChipInput from 'material-ui-chips-input'
 
 // uncontrolled input
 <ChipInput
@@ -98,5 +98,5 @@ The files included in this repository are licensed under the MIT license.
 [mui]: http://www.material-ui.com/#/
 [angular-chips]: https://material.angularjs.org/latest/demo/chips
 [mui-text-field]: https://material-ui-next.com/api/text-field/
-[gh-pages]: https://teamwertarbyte.github.io/material-ui-chip-input/
-[legacy]: https://github.com/TeamWertarbyte/material-ui-chip-input/tree/legacy
+[gh-pages]: https://sheghzo.github.io/material-ui-chips-input/
+[legacy]: https://github.com/sheghzo/material-ui-chips-input/tree/legacy
