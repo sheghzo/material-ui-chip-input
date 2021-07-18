@@ -2,6 +2,8 @@
 
 ## This is a fork with urgent update on peer dependency of material UI core (to ^4.9.2) & React (to ^16.13.1)
 
+#### by [sheghzo](https://github.com/sheghzo/material-ui-chip-input)
+
 [![Build Status](https://travis-ci.org/TeamWertarbyte/material-ui-chip-input.svg?branch=next)](https://travis-ci.org/TeamWertarbyte/material-ui-chip-input)
 [![Coverage Status](https://coveralls.io/repos/github/TeamWertarbyte/material-ui-chip-input/badge.svg?branch=next)](https://coveralls.io/github/TeamWertarbyte/material-ui-chip-input?branch=next)
 
